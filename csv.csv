@@ -1,0 +1,4 @@
+INSERT INTO Singers (SingerId, FirstName, LastName,)
+VALUES(1, 'Marc', 'Richards'),
+      (2, 'Catalina', 'Smith'),
+      (3, 'Alice', 'Trentor');

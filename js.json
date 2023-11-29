@@ -1,0 +1,21 @@
+{
+  "table_name": "Singers",
+  "columns": [
+    {
+      "name": "SingerId",
+      "type": "INT64",
+      "not_null": true
+    },
+    {
+      "name": "FirstName",
+      "type": "STRING",
+      "length": 1024
+    },
+    {
+      "name": "LastName",
+      "type": "STRING",
+      "length": 1024
+    } 
+  ],
+  "primary_key": ["SingerId"]
+}
